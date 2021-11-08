@@ -23,3 +23,5 @@ class HomePageData:
 
     print("Develop branch: Done by Git Demo")
 
+    print("Develop branch: Done by GitX")
+
